@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Card Pair</string>
+
+    <string name="af_dev_key">ZVjBoaG8xnMe429oU6cJRa</string>
+    <string name="onesignal_app_id">########-####-####-####-############</string>
+    <string name="facebook_app_id">888819862108642</string>
+    <string name="facebook_client_token">c4d0ceaca54b117049963777c6cb8564</string>
+</resources>
